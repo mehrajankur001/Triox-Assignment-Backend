@@ -1,4 +1,4 @@
-## Env Variables
+# Env Variables
 
 Create a .env file in then root and add the following
 
@@ -6,19 +6,19 @@ PORT = 5000
 
 MONGO_URI = your mongodb uri
 
-## Install Dependencies
+# Install Dependencies
 
 npm install
 
-## Seed Database
+# Seed Database
 
 You can use the following commands to seed the database with some sample products as well as destroy all data
 
-# Import data
+## Import data
 
 npm run data:import
 
-# Destroy data
+## Destroy data
 
 npm run data:destroy
 
