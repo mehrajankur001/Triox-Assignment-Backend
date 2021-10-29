@@ -1,3 +1,13 @@
+# Clone
+
+git clone https://github.com/mehrajankur001/Triox-Assignment-Backend.git
+
+# Install Dependencies
+
+cd Triox-Assignment-Backend
+
+npm install
+
 # Env Variables
 
 Create a .env file in then root and add the following
@@ -5,10 +15,6 @@ Create a .env file in then root and add the following
 PORT = 5000
 
 MONGO_URI = your mongodb uri
-
-# Install Dependencies
-
-npm install
 
 # Seed Database
 
