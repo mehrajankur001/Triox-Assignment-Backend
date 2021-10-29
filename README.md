@@ -22,14 +22,14 @@ npm run data:import
 
 npm run data:destroy
 
-## Run backend
+# Run backend
 
-node server.js   
-
-or
-
-npm run server
+ # node server.js   
 
 or
 
-npm start
+# npm run server
+
+or
+
+# npm start
