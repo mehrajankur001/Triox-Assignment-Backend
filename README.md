@@ -30,12 +30,12 @@ npm run data:destroy
 
 # Run backend
 
- # node server.js   
+ ## node server.js   
 
 or
 
-# npm run server
+## npm run server
 
 or
 
-# npm start
+## npm start
