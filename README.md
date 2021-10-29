@@ -24,4 +24,12 @@ npm run data:destroy
 
 ### Run backend
 
-node server.js or npm run server or npm start
+node server.js   
+
+or
+
+npm run server
+
+or
+
+npm start
